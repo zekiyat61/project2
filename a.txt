@@ -1,1 +1,2 @@
 This is content for a.txt
+More content for a.txt
